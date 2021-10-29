@@ -1,7 +1,7 @@
 %define	name libsrs2
 %define	pversion 1.0.18
 %define 	bversion 1.3
-%define	rpmrelease 7.kng%{?dist}
+%define	rpmrelease 7.kkr%{?dist}
 
 %define		release %{bversion}.%{rpmrelease}
 BuildRequires:	openssl-devel
